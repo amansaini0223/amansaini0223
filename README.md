@@ -360,15 +360,6 @@ Python • Pandas • Plotly • Streamlit • Matplotlib
 
 </div>
 
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=amansaini0223&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&margin-h=12&row=2&column=4"/>
-
-</div>
 
 ---
 
@@ -384,7 +375,6 @@ Python • Pandas • Plotly • Streamlit • Matplotlib
 
 # 🐍 Contribution Snake
 
-> ⚠️ **Visible after GitHub Actions setup**
 
 <div align="center">
 
